@@ -1,0 +1,27 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/Home.html"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/How%20It%20Works.html"
+  to = "/how-it-works.html"
+  status = 301
+
+[[redirects]]
+  from = "/How It Works.html"
+  to = "/how-it-works.html"
+  status = 301
+
+[[redirects]]
+  from = "/Privacy%20Policy.html"
+  to = "/privacy-policy.html"
+  status = 301
+
+[[redirects]]
+  from = "/Privacy Policy.html"
+  to = "/privacy-policy.html"
+  status = 301
